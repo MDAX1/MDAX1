@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehrdad (MDAX1)</h1>
 <h3 align="center">A passionate Fullstack developer from Sweden</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdax1&label=Profile%20views&color=0e75b6&style=flat" alt="mdax1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdax1" alt="mdax1" /></a> </p>
-
 - 🔭 I’m currently working on **angular application**
 
 - 🌱 I’m currently learning **Angular, React, PHP & Laravel**
