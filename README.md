@@ -2,25 +2,25 @@
 <h3 align="center">A passionate Fullstack developer from Sweden</h3>
 
 
-- 🔭 I’m currently working on **angular application**
+- 🔭 I’m currently working on **angular application**.
 
-- 🌱 I’m currently learning **Angular, React, PHP & Laravel**
+- 🌱 I’m currently learning **Angular, React, PHP & Laravel**.
 
-- ⚡ Fun fact **I'm open to learn more & grow my skills**
+- ⚡ Fun fact **I'm open to learn more & grow my skills**.
 
-- ⚙️ I take pride in engineering solutions. **
+- ⚙️ I take pride in engineering solutions.
 
-- 🔖 I love Comic books & sci-fi movies. **
+- 🔖 I love Comic books & sci-fi movies.
 
-- 🎮 I sometimes play video games. **
+- 🎮 I sometimes play video games.
 
-- 🦸‍♂️ Supporter of right to privacy and right to repair. **
+- 🦸‍♂️ Supporter of right to privacy and right to repair.
 
-- 💬 I define myself as a friendly, confident, problem solver, philosopher & environmentalist. **
+- 💬 I define myself as a friendly, confident, problem solver, philosopher & environmentalist.
 
-- 🖥️ Website: github.com/MDAX1 | Professional Summary: Resume is coming soon  **
+- 🖥️ Website: github.com/MDAX1 | Professional Summary: Resume is coming soon.
 
-- 📫 How to reach me: neoxwhiterabbit@gmail.com  **
+- 📫 How to reach me: neoxwhiterabbit@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
