@@ -8,13 +8,19 @@
 
 - ⚡ Fun fact **I'm open to learn more & grow my skills**
 
-📫 How to reach me: @gmail.com
-⚙️ I take pride in engineering solutions
-🔖 I love books
-🎮 I sometimes play video games.
-🦸‍♂️ Supporter of right to privacy and right to repair.
-💬 I define myself as a friendly, confident, problem solver, philosopher & environmentalist.
-🖥️ Website: github.com/MDAX1 | Professional Summary: Resume is coming
+- ⚙️ I take pride in engineering solutions. **
+
+- 🔖 I love Comic books & sci-fi movies. **
+
+- 🎮 I sometimes play video games. **
+
+- 🦸‍♂️ Supporter of right to privacy and right to repair. **
+
+- 💬 I define myself as a friendly, confident, problem solver, philosopher & environmentalist. **
+
+- 🖥️ Website: github.com/MDAX1 | Professional Summary: Resume is coming soon  **
+
+- 📫 How to reach me: neoxwhiterabbit@gmail.com  **
 
 
 <h3 align="left">Languages and Tools:</h3>
