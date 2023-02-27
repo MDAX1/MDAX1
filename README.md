@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mehrdad Amini!</h1>
-<h3 align="center">Full-Stack Developer with a passion for building Webapplications</h3>
+<h3 align="center">i'm an fullstack Developer with a passion for building Web applications</h3>
+
+I'm a person that if i didn't know how to make something, i'd find out how to do it. Thats why programming has been a perfect fit for me.
+
+I have experience working with JavaScript, React, Node.js, HTML/CSS, and SQL. I am always looking to improve my skills and learn new technologies.
 
 
 - ⚡ Fun fact **I'm open to learn more & grow my skills**.
-
 - 🔖 I love Comic books & sci-fi movies.
-
-- 🦸‍♂️ Supporter of right to privacy and right to repair.
-
 - 💬 I define myself as a friendly, confident, problem solver, philosopher & environmentalist.
+- - 🦸‍♂️ Supporter of right to privacy and right to repair.
 
 
 
