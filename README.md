@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehrdad Amini!</h1>
 <h3 align="center">i'm an fullstack Developer with a passion for building Web applications</h3>
 
-I'm a person that if i didn't know how to make something, i'd find out how to do it. Thats why programming has been a perfect fit for me.
+I'm a person that if I didn't know how to make something, I'd find out how to do it. That's why programming has been a perfect fit for me.
 
 I have experience working with JavaScript, React, Node.js, HTML/CSS, and SQL. I am always looking to improve my skills and learn new technologies.
 
