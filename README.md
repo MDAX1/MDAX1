@@ -7,9 +7,8 @@ I have experience working with JavaScript, React, Node.js, HTML/CSS, and SQL. I 
 
 
 - ⚡ Fun fact **I'm open to learn more & grow my skills**.
-- 🔖 I love Comic books & sci-fi movies.
-- 💬 I define myself as a friendly, confident, problem solver, philosopher & environmentalist.
-- - 🦸‍♂️ Supporter of right to privacy and right to repair.
+- 🔖 I like books, games, movies, all things narrative and also love to create! 
+- 💬 I have a very friendly, creative and logical personality.
 
 
 
