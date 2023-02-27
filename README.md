@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mehrdad (MDAX1)</h1>
-<h3 align="center">A passionate Fullstack developer from Sweden</h3>
+<h1 align="center">Hi 👋, I'm Mehrdad Amini!</h1>
+<h3 align="center">I'm a Junior Full-Stack Developer with a passion for building great software. I have experience working with JavaScript, React, Node.js, HTML/CSS, and SQL. I am always looking to improve my skills and learn new technologies.</h3>
 
 
 - ⚡ Fun fact **I'm open to learn more & grow my skills**.
