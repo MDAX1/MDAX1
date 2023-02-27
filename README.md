@@ -10,6 +10,7 @@ I have experience working with JavaScript, React, Node.js, HTML/CSS, and SQL. I 
 - 🔖 I like books, games, movies, all things narrative and also love to create! 
 - 💬 I have a very friendly, creative and logical personality.
 
+Feel free to contact me via <a href="https://github.com/MDAX1/MDAX1">LinkedIn</a> or email at mehrdaad.amini@gmail.com.
 
 
 <h3 align="left">Languages and Tools:</h3>
