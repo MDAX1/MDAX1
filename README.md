@@ -6,7 +6,7 @@ I'm a person that if I didn't know how to make something, I'd find out how to do
 I have experience working with JavaScript, React, Node.js, HTML/CSS, and SQL. I am always looking to improve my skills and learn new technologies.
 
 
-- ⚡ Fun fact **I'm open to learn more & grow my skills**.
+- ⚡ I love to learn and grow my skills.
 - 🔖 I like books, games, movies, all things narrative and also love to create! 
 - 💬 I have a very friendly, creative and logical personality.
 
