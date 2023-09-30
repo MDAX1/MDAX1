@@ -10,7 +10,7 @@ I have experience working with JavaScript, React, Node.js, HTML/CSS, and SQL. I 
 - 🔖 I like books, games, movies, all things narrative and also love to create! 
 - 💬 I have a very friendly, creative and logical personality.
 
-Feel free to contact me via <a href="https://www.linkedin.com/in/mehrdadamini">LinkedIn</a>.
+Feel free to contact me via <a href="https://">LinkedIn</a>.
 
 You can find my portfolio here: <a href="https://">My Portfolio</a>.
 
